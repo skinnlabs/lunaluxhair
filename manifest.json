@@ -1,0 +1,38 @@
+{
+  "background_color": "#ffffff",
+  "description": "We are an industry-leading cleaning service based in South Africa. Book a cleaner for your home or office and shop our expertly formulated product range.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Tlean",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tlean",
+  "start_url": "/login",
+  "theme_color": "#cee950",
+  "categories": [
+    "lifestyle",
+    "shopping"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://assets.website-files.com/620a9582f3209f0403dd0cd0/620a9582f3209fe09cdd0d73_Favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://assets.website-files.com/620a9582f3209f0403dd0cd0/620a9582f3209f1422dd0d7d_Webclip.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/za/app/sweepsouth/id1139550051",
+      "id": "1139550051"
+    }
+  ]
+}
