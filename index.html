@@ -44,8 +44,20 @@ data-wf-status="1">
   </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1237323355260727"
      crossorigin="anonymous"></script>
+
+ <link rel="manifest" href="/manifest.json" />
+
 </head>
 <body>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register(
+        '/sw.js'
+      );
+    }
+  </script>
+
   <div class="page-wrapper">
     <div class="section-announcement-bar">
       <div class="page-padding">
